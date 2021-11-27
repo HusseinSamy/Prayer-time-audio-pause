@@ -1,0 +1,4 @@
+plyer
+requests
+schedule
+winrt
