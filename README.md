@@ -5,9 +5,7 @@ A python script that pauses the audio on praying times.
 * [Python 3.9](https://www.python.org/downloads/release/python-399/) ( 3.10 version have issues with installing **winrt** library )  
 ***
 ## Installation Process  
-1. Change the file path in the main file - (**if the file path is too long, place r before the string begining**)
-![](https://github.com/HusseinSamy/PrayerTimesAudioPause/blob/main/gifs/ChangDeirectoryInMainFile.gif)
-2. Run the **intall requirements** file
+1. Run the **intall requirements** file
 ![](https://github.com/HusseinSamy/PrayerTimesAudioPause/blob/main/gifs/InstallRequirements.gif)
 ***
 ## Run the script manually
