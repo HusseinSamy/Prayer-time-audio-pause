@@ -17,7 +17,7 @@ def run():
 
 
 if __name__ == '__main__':
-    chdir("[YOUR DIRECTORY HERE]") #eg. "E:\Work\PythonScripts\StopAudioWhenItsPrayerTime"  
+    chdir(".") 
     try:
         get("https://api.aladhan.com/v1/calendarByCity?city=Cairo&country=Egypt&method=5&month=" + current_date[4:7] + "&year=" + current_date[7:11]).json()
         update_data()
