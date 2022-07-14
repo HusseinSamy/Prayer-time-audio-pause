@@ -1,5 +1,5 @@
 ### Prayer Time Audio Pause
-A python script that pauses the audio on praying times.
+A python script that pauses the audio on praying times (for windows only).
 ***
 ## Prerequisites
 * [Python 3.9](https://www.python.org/downloads/release/python-399/) ( 3.10 version have issues with installing **winrt** library )  
