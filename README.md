@@ -1,5 +1,6 @@
-### Prayer Time Audio Pause
-A python script that pauses the audio on praying times (for windows only).
+### About the script
+I have always had a problem when it comes to listening to music; in most of the times I am listening to music and there is an Azan, I miss out hearing it because of the music. 
+So I have came up with this python script that fetches Azan times from an API and pause the music automatically and give you a notification that it's a prayer time and automatically play the music again after the Azan is finished. (for windows only).
 ***
 ## Prerequisites
 * [Python 3.9](https://www.python.org/downloads/release/python-399/) ( 3.10 version have issues with installing **winrt** library )  
